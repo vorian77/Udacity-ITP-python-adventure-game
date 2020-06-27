@@ -35,11 +35,10 @@ Coding for project required strict adherence to the PEP 8 style guide.
 
 
 ## Instructions
-```
-1. Copy files to a directory.
-2. From a terminal, set the 
-3. Execute `python3 adventure_game.py`
-```
+
+1. Copy files to a directory,
+2. From a terminal, navigate to the directory, 
+3. Execute `python3 adventure_game.py`.
 
 ## Support
 
